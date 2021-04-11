@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "vazkii.botania.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinMinecraftClient",
+    "MixinWorldRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
